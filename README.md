@@ -24,6 +24,7 @@ The system operates in two distinct phases:
 1. **Start the Server:**
    ```bash
    python server.py
-2. **Start the Server:**
+2. **Start the Client:**
    ```bash
    python client.py
+   
